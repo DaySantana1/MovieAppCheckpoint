@@ -1,4 +1,4 @@
-# movie_app
+# MovieAppCheckpoint
 
 A new Flutter project.
 
